@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+src/bayardo_rivasbankingapp-main.code-workspace
+src/logo.svg
+bank-app.zip
