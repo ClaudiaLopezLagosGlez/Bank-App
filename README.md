@@ -1,3 +1,5 @@
+![BankAppImg](https://user-images.githubusercontent.com/101289219/194055807-f9eca495-03be-4f52-aaba-dc708c5b8fa2.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
