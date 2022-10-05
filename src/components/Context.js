@@ -1,11 +1,6 @@
 import React from 'react'
 
-function Context() {
-  return (
-    <div>
-      
-    </div>
-  )
-}
+export const UserContext = React.createContext();
+export const AuthenticatedUserContext = React.createContext();
 
-export default Context
+//export default {UserContext, AuthenticatedUserContext};
